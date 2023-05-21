@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+
+
+span {
+    border-style: solid;
+    color: rgb(31, 31, 31);
+}
+
+.container{
+    margin: 50px;
+    padding: 25px;
+    border: 1px solid black;
+}
+
+.Display {
+    border: 1px solid red;
+
+}
+
+#display-none {
+    display: none;
+}
+
+
+#display-inline {
+    display: inline;
+}
+
+
+#display-block {
+    display: block;
+}
+
+
+#display-inline-block {
+    display: inline-block;
+}
+
+li {
+    display: inline;image.png
+}

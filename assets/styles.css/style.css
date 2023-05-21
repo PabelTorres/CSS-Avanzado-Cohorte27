@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    height: 5000px;
+}
+
+
+/* Estilos para la clase container */
+.container{
+    margin: 25px;
+    border: 1px solid black;
+}
+
+
+.container-padre{
+    margin: 100px;
+    padding: 100px;
+    border: 1px solid black;
+}
+
+
+.position{
+    position: sticky;
+    top: 1;
+
+}

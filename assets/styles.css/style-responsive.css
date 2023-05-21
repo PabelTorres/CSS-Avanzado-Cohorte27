@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    color: brown;
+}
+
+
+@media (max-width:500px){
+body{
+    color: blueviolet;
+}
+
+.parrafo {
+    display: none;
+}
+}
+
+@media (orientation:landscape){
+    
+    body{
+        background-color: aquamarine;
+    }
+
+
+}
+
+@media (orientation: landscape) and (max-width:600px){
+    body{
+        color: goldenrod;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+}
